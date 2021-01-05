@@ -64,7 +64,7 @@
     "@sentry/browser": "^4.2.3",
     "antd": "^3.11.2",
     "antd-mobile": "^2.2.6",
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "bignumber.js": "^7.2.1",
     "cross-env": "^5.2.0",
     "echarts": "^4.1.0",
