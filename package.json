@@ -69,7 +69,7 @@
     "cross-env": "^5.2.0",
     "echarts": "^4.1.0",
     "echarts-for-react": "^2.0.14",
-    "flat": "^4.1.0",
+    "flat": "^5.0.1",
     "history": "^4.7.2",
     "http-server": "^0.11.1",
     "intl": "^1.2.5",
